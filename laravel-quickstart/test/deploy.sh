@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 CONFIG_ENV=$1
 SERVER_ENV=$2
 RELEASE_BRANCH=$3
